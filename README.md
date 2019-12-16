@@ -6,7 +6,7 @@ A dart's CLI for Flutter, to run different environments without the `extra-flag`
 
 ## Usage
 
-Download and copy the [binary]() to your flutter project repository and use the lib: [environment_controller](https://github.com/willyelns/Environment_controller) to create the Configuration Files to run the project.
+Download and copy the [binary](https://github.com/willyelns/env_runner/releases/) to your flutter project repository and use the lib: [environment_controller](https://github.com/willyelns/Environment_controller) to create the Configuration Files to run the project.
 
 ### Commands
 
